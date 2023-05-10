@@ -61,7 +61,7 @@ cd /opt
 
 unzip -/sonarqube-7.9.1.zip
 
-my sonarqube-7.9.1 sonar
+mv sonarqube-7.9.1 sonar
 
 ### Configure Sonarqube
 
